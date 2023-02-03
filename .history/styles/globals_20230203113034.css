@@ -50,7 +50,7 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color:var(--quaternary-color)
+  background-color:var(--)
 }
 
 
